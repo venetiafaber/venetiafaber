@@ -4,8 +4,7 @@
 
 I build modern web applications with React and Node.js. Passionate about creating intuitive user experiences backed by robust server-side architecture.
 
-🚀 **Currently building:** Full-stack e-commerce platform with real-time cart management and order tracking  
-🔧 **Tech focus:** Migrating codebases to TypeScript for enhanced type safety and maintainability  
+🚀 **Currently building:** Currently building: AI SaaS application powered by Gemini 2.0 Flash — JWT auth, Node.js backend complete, React frontend in progress.  
 💡 **Interested in:** Contributing to open-source projects and collaborative development  
 📫 **Let's connect:** venetia.faber@gmail.com | https://www.linkedin.com/in/venetia-f-00204450/
 
