@@ -7,7 +7,7 @@ I build modern web applications with React and Node.js. Passionate about creatin
 🚀 **Currently building:** Full-stack e-commerce platform with real-time cart management and order tracking  
 🔧 **Tech focus:** Migrating codebases to TypeScript for enhanced type safety and maintainability  
 💡 **Interested in:** Contributing to open-source projects and collaborative development  
-📫 **Let's connect:** [Your Email] | [LinkedIn]
+📫 **Let's connect:** venetia.faber@gmail.com | https://www.linkedin.com/in/venetia-f-00204450/
 
 ## 🛠️ Tech Stack
 
