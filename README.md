@@ -4,7 +4,7 @@
 
 I build production-grade web applications using React and Node.js, backed by 15+ years of experience working inside large-scale enterprise systems across retail and healthcare. I bring a practical, production-first mindset to everything I build — from clean frontend UIs to robust backend APIs and system integrations.
 
-🚀 **Currently building:** AI SaaS application powered by Gemini 2.0 Flash — JWT auth & Node.js backend complete, React frontend in progress  
+🚀 **Currently building:** AI SaaS application powered by Gemini 2.0 Flash — JWT auth, Node.js backend, & React frontend is complete, deployment in progress  
 🌍 **Based in:** Kuwait — open to onsite roles in the Middle East & remote opportunities worldwide  
 📚 **Currently learning:** Azure AZ-900 · GitHub Actions CI/CD · Jest & React Testing Library · Docker · Next.js  
 🔗 **Let's connect:** [venetia.faber@gmail.com](mailto:venetia.faber@gmail.com) · [LinkedIn](https://www.linkedin.com/in/venetia-f-00204450/)
